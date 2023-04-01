@@ -1,0 +1,18 @@
+body {
+    background: url('unsplash.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    width: 450px;
+}
+
+input {
+    margin: 20px 0;
+}
+
+.weather {
+    margin-top: 15px;
+}
